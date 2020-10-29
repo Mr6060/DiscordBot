@@ -1,2 +1,8 @@
 /old_bot/
 token.txt
+*.db
+*.pyc
+.idea/dataSources/8b6abbdb-0b6a-4cb0-81cd-f66a709b58c3.xml
+.idea/dataSources.xml
+.idea/dataSources.xml
+*.xml
